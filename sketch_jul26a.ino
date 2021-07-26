@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "AndroidAP503D";
-const char* password = "1234GoPiPico";
+const char* ssid     = "Your_SSID";
+const char* password = "Your_Password";
 
 // Set web server port number to 80
 WiFiServer server(80);
